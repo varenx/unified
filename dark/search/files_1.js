@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['migration_5fguide_2emd_1544',['Migration_Guide.md',['../Migration__Guide_8md.html',1,'']]]
+  ['changelog_2emd_1713',['CHANGELOG.md',['../CHANGELOG_8md.html',1,'']]],
+  ['contributing_2emd_1714',['CONTRIBUTING.md',['../CONTRIBUTING_8md.html',1,'']]]
 ];
